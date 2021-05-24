@@ -13,7 +13,7 @@ class Game {
             player.getCount()
           
         }
-            car1 = createSprite(100, 200)
+         car1 = createSprite(100, 200)
         car2 = createSprite(300, 200)
         car3 = createSprite(500, 200)
         car4 = createSprite(700, 200)

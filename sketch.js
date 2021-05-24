@@ -32,7 +32,7 @@ function draw() {
     game.play()
   }
 
-  drawSprites();
+  
 
 }
 
